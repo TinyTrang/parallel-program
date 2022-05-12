@@ -1,0 +1,183 @@
+CUDA Device 1: GeForce RTX 2080 Ti Gflops 111.180000 Processors 68 Threads/Block 1024
+
+N[] = {
+p: 593460533    q: 593460563    N: 352195422032460079
+p: 593474419    q: 593474449    N: 352211903811620131
+p: 593501599    q: 593501627    N: 352244164633601573
+p: 593494661    q: 593494669    N: 352235917383462209
+p: 593497231    q: 593497237    N: 352238966765650747
+p: 593474383    q: 593474389    N: 352211846838076987
+p: 593456917    q: 593456939    N: 352191125391197063
+p: 593486281    q: 593486287    N: 352225969296128647
+p: 593446559    q: 593446561    N: 352178819575833599
+p: 593449811    q: 593449853    N: 352182703100827783
+p: 593472631    q: 593472661    N: 352209781550241091
+p: 593445319    q: 593445341    N: 352177359698808779
+p: 593469479    q: 593469491    N: 352206029626165189
+p: 593471467    q: 593471503    N: 352208403508104901
+p: 593443913    q: 593443933    N: 352175689745629829
+p: 593467711    q: 593467723    N: 352203931121192053
+p: 593460827    q: 593460851    N: 352195767426583777
+p: 593470837    q: 593470841    N: 352207636743363917
+p: 593473693    q: 593473711    N: 352211034965584723
+p: 593455097    q: 593455111    N: 352188960463650767
+p: 593497381    q: 593497391    N: 352239147188832971
+p: 593445691    q: 593445703    N: 352177795287815773
+p: 593489207    q: 593489209    N: 352229440012467263
+p: 593504129    q: 593504173    N: 352247177254230317
+p: 593487859    q: 593487863    N: 352227841154355317
+p: 593495293    q: 593495297    N: 352236665187137021
+p: 593503453    q: 593503499    N: 352246376024082047
+p: 593458441    q: 593458469    N: 352192937810986829
+p: 593467577    q: 593467649    N: 352203807679916473
+p: 593449309    q: 593449319    N: 352182088287070571
+p: 593474767    q: 593474813    N: 352212326365543571
+p: 593456543    q: 593456623    N: 352190715906034289
+p: 593454079    q: 593454089    N: 352187749816279031
+p: 593443087    q: 593443091    N: 352174699881861917
+p: 593491463    q: 593491477    N: 352232124962760851
+p: 593451673    q: 593451721    N: 352184916672179233
+p: 593473343    q: 593473351    N: 352210613599382393
+p: 593462927    q: 593462941    N: 352198254031888307
+p: 593502467    q: 593502473    N: 352245181896100891
+p: 593455549    q: 593455573    N: 352189502881824577
+p: 593498209    q: 593498303    N: 352240179875039327
+p: 593469223    q: 593469271    N: 352205747134746433
+p: 593502823    q: 593502841    N: 352245611592020143
+p: 593502331    q: 593502341    N: 352245022837456871
+p: 593468683    q: 593468693    N: 352205083636441319
+p: 593479301    q: 593479349    N: 352217709202455049
+p: 593455459    q: 593455477    N: 352189392499098943
+p: 593503637    q: 593503679    N: 352246592059380523
+p: 593451673    q: 593451721    N: 352184916672179233
+p: 593471927    q: 593471941    N: 352208936445700307
+}
+
+Numbr of blocks: 512    Number of threads/block: 512
+Parallel: One of the divisors for 352195422032460079 is 593460533.
+Parallel: One of the divisors for 352211903811620131 is 593474419.
+Parallel: One of the divisors for 352244164633601573 is 593501599.
+Parallel: One of the divisors for 352235917383462209 is 593494669.
+Parallel: One of the divisors for 352238966765650747 is 593497237.
+Parallel: One of the divisors for 352211846838076987 is 593474389.
+Parallel: One of the divisors for 352191125391197063 is 593456917.
+Parallel: One of the divisors for 352225969296128647 is 593486281.
+Parallel: One of the divisors for 352178819575833599 is 593446559.
+Parallel: One of the divisors for 352182703100827783 is 593449853.
+Parallel: One of the divisors for 352209781550241091 is 593472661.
+Parallel: One of the divisors for 352177359698808779 is 593445341.
+Parallel: One of the divisors for 352206029626165189 is 593469479.
+Parallel: One of the divisors for 352208403508104901 is 593471467.
+Parallel: One of the divisors for 352175689745629829 is 593443913.
+Parallel: One of the divisors for 352203931121192053 is 593467723.
+Parallel: One of the divisors for 352195767426583777 is 593460851.
+Parallel: One of the divisors for 352207636743363917 is 593470837.
+Parallel: One of the divisors for 352211034965584723 is 593473711.
+Parallel: One of the divisors for 352188960463650767 is 593455111.
+Parallel: One of the divisors for 352239147188832971 is 593497381.
+Parallel: One of the divisors for 352177795287815773 is 593445691.
+Parallel: One of the divisors for 352229440012467263 is 593489207.
+Parallel: One of the divisors for 352247177254230317 is 593504129.
+Parallel: One of the divisors for 352227841154355317 is 593487863.
+Parallel: One of the divisors for 352236665187137021 is 593495297.
+Parallel: One of the divisors for 352246376024082047 is 593503453.
+Parallel: One of the divisors for 352192937810986829 is 593458469.
+Parallel: One of the divisors for 352203807679916473 is 593467649.
+Parallel: One of the divisors for 352182088287070571 is 593449319.
+Parallel: One of the divisors for 352212326365543571 is 593474767.
+Parallel: One of the divisors for 352190715906034289 is 593456623.
+Parallel: One of the divisors for 352187749816279031 is 593454089.
+Parallel: One of the divisors for 352174699881861917 is 593443087.
+Parallel: One of the divisors for 352232124962760851 is 593491463.
+Parallel: One of the divisors for 352184916672179233 is 593451721.
+Parallel: One of the divisors for 352210613599382393 is 593473343.
+Parallel: One of the divisors for 352198254031888307 is 593462927.
+Parallel: One of the divisors for 352245181896100891 is 593502473.
+Parallel: One of the divisors for 352189502881824577 is 593455573.
+Parallel: One of the divisors for 352240179875039327 is 593498303.
+Parallel: One of the divisors for 352205747134746433 is 593469271.
+Parallel: One of the divisors for 352245611592020143 is 593502841.
+Parallel: One of the divisors for 352245022837456871 is 593502341.
+Parallel: One of the divisors for 352205083636441319 is 593468683.
+Parallel: One of the divisors for 352217709202455049 is 593479349.
+Parallel: One of the divisors for 352189392499098943 is 593455459.
+Parallel: One of the divisors for 352246592059380523 is 593503679.
+Parallel: One of the divisors for 352184916672179233 is 593451721.
+Parallel: One of the divisors for 352208936445700307 is 593471927.
+Parallel Pollard Rho took 9.39206s
+
+
+Geeks Host/Serial: One of the divisors for 352195422032460079 is 593460533.
+Geeks Host/Serial: One of the divisors for 352211903811620131 is 593474449.
+Geeks Host/Serial: One of the divisors for 352244164633601573 is 593501627.
+Geeks Host/Serial: One of the divisors for 352235917383462209 is 593494669.
+Geeks Host/Serial: One of the divisors for 352238966765650747 is 593497231.
+Geeks Host/Serial: One of the divisors for 352211846838076987 is 593474389.
+Geeks Host/Serial: One of the divisors for 352191125391197063 is 593456939.
+Geeks Host/Serial: One of the divisors for 352225969296128647 is 593486281.
+Geeks Host/Serial: One of the divisors for 352178819575833599 is 593446559.
+Geeks Host/Serial: One of the divisors for 352182703100827783 is 593449811.
+Geeks Host/Serial: One of the divisors for 352209781550241091 is 593472661.
+Geeks Host/Serial: One of the divisors for 352177359698808779 is 593445319.
+Geeks Host/Serial: One of the divisors for 352206029626165189 is 593469491.
+Geeks Host/Serial: One of the divisors for 352208403508104901 is 593471467.
+Geeks Host/Serial: One of the divisors for 352175689745629829 is 593443933.
+Geeks Host/Serial: One of the divisors for 352203931121192053 is 593467723.
+Geeks Host/Serial: One of the divisors for 352195767426583777 is 593460851.
+Geeks Host/Serial: One of the divisors for 352207636743363917 is 593470841.
+Geeks Host/Serial: One of the divisors for 352211034965584723 is 593473693.
+Geeks Host/Serial: One of the divisors for 352188960463650767 is 593455097.
+Geeks Host/Serial: One of the divisors for 352239147188832971 is 593497391.
+Geeks Host/Serial: One of the divisors for 352177795287815773 is 593445703.
+Geeks Host/Serial: One of the divisors for 352229440012467263 is 593489209.
+Geeks Host/Serial: One of the divisors for 352247177254230317 is 593504129.
+Geeks Host/Serial: One of the divisors for 352227841154355317 is 593487859.
+Geeks Host/Serial: One of the divisors for 352236665187137021 is 593495297.
+Geeks Host/Serial: One of the divisors for 352246376024082047 is 593503453.
+Geeks Host/Serial: One of the divisors for 352192937810986829 is 593458441.
+Geeks Host/Serial: One of the divisors for 352203807679916473 is 593467649.
+Geeks Host/Serial: One of the divisors for 352182088287070571 is 593449309.
+Geeks Host/Serial: One of the divisors for 352212326365543571 is 593474813.
+Geeks Host/Serial: One of the divisors for 352190715906034289 is 593456623.
+Geeks Host/Serial: One of the divisors for 352187749816279031 is 593454079.
+Geeks Host/Serial: One of the divisors for 352174699881861917 is 593443091.
+Geeks Host/Serial: One of the divisors for 352232124962760851 is 593491463.
+Geeks Host/Serial: One of the divisors for 352184916672179233 is 593451673.
+Geeks Host/Serial: One of the divisors for 352210613599382393 is 593473343.
+Geeks Host/Serial: One of the divisors for 352198254031888307 is 593462941.
+Geeks Host/Serial: One of the divisors for 352245181896100891 is 593502473.
+Geeks Host/Serial: One of the divisors for 352189502881824577 is 593455573.
+Geeks Host/Serial: One of the divisors for 352240179875039327 is 593498303.
+Geeks Host/Serial: One of the divisors for 352205747134746433 is 593469271.
+Geeks Host/Serial: One of the divisors for 352245611592020143 is 593502841.
+Geeks Host/Serial: One of the divisors for 352245022837456871 is 593502331.
+Geeks Host/Serial: One of the divisors for 352205083636441319 is 593468683.
+Geeks Host/Serial: One of the divisors for 352217709202455049 is 593479301.
+Geeks Host/Serial: One of the divisors for 352189392499098943 is 593455459.
+Geeks Host/Serial: One of the divisors for 352246592059380523 is 593503679.
+Geeks Host/Serial: One of the divisors for 352184916672179233 is 593451721.
+Geeks Host/Serial: One of the divisors for 352208936445700307 is 593471927.
+Geeks Serial Pollard Rho took 2631.5s
+
+
+Host/Serial: One of the divisors for 352195422032460079 is 593460563.
+Host/Serial: One of the divisors for 352211903811620131 is 593474449.
+Host/Serial: One of the divisors for 352244164633601573 is 593501627.
+Host/Serial: One of the divisors for 352235917383462209 is 593494661.
+Host/Serial: One of the divisors for 352238966765650747 is 593497237.
+Host/Serial: One of the divisors for 352211846838076987 is 593474383.
+Host/Serial: One of the divisors for 352191125391197063 is 593456917.
+Host/Serial: One of the divisors for 352225969296128647 is 593486281.
+Host/Serial: One of the divisors for 352178819575833599 is 593446559.
+Host/Serial: One of the divisors for 352182703100827783 is 593449853.
+Host/Serial: One of the divisors for 352209781550241091 is 593472631.
+Host/Serial: One of the divisors for 352177359698808779 is 593445319.
+Host/Serial: One of the divisors for 352206029626165189 is 593469479.
+Host/Serial: One of the divisors for 352208403508104901 is 593471503.
+Host/Serial: One of the divisors for 352175689745629829 is 593443913.
+Host/Serial: One of the divisors for 352203931121192053 is 593467723.
+Host/Serial: One of the divisors for 352195767426583777 is 593460851.
+Host/Serial: One of the divisors for 352207636743363917 is 593470837.
+Host/Serial: One of the divisors for 352211034965584723 is 593473711.
+
+//I had to terminate the program here since it passed 3 hours
